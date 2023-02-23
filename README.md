@@ -1,9 +1,9 @@
 <p align="center"><img src="https://raw.githubusercontent.com/titaniumnetwork-dev/Ultraviolet-Static/main/public/uv.png" height="200"></p>
 
-<h1 align="center">Ultraviolet-Static</h1>
+<h1 align="center">BruhProx-Static (CDN)</h1>
 
-Static files/assets used to spin up an Ultraviolet website.
+Static files/assets used to spin up an BruhProx website.
 
-## Install in [Ultraviolet-App](https://github.com/titaniumnetwork-dev/Ultraviolet-App.git)
+## Install in [Ultraviolet-App](https://github.com/z1g-project/BruhProx.git)
 
-See [Ultraviolet-App's Wiki](https://github.com/titaniumnetwork-dev/Ultraviolet-App/wiki/Customizing-your-frontend).
+See [BruhProx-App's Wiki](https://github.com/z1g-project/BruhProx/wiki/Customizing-your-frontend).
