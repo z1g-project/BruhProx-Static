@@ -4,6 +4,6 @@
 
 Static files/assets used to spin up an BruhProx website.
 
-## Install in [Ultraviolet-App](https://github.com/z1g-project/BruhProx.git)
+## Install in [BruhProx-App](https://github.com/z1g-project/BruhProx.git)
 
 See [BruhProx-App's Wiki](https://github.com/z1g-project/BruhProx/wiki/Customizing-your-frontend).
