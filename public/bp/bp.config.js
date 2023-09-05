@@ -1,7 +1,6 @@
 self.__uv$config = {
-  prefix: "/uv/service/",
+  prefix: "/bp/service/",
   bare: [
-    "https://uv.studentportal.lol/",
     "https://uv.radon.games/",
     "https://uv.holyubofficial.net/",
     "https://tomp.app/",
@@ -9,9 +8,9 @@ self.__uv$config = {
   ],
   encodeUrl: Ultraviolet.codec.xor.encode,
   decodeUrl: Ultraviolet.codec.xor.decode,
-  handler: "/uv/uv.handler.js",
-  client: "/uv/uv.client.js",
-  bundle: "/uv/uv.bundle.js",
-  config: "/uv/uv.config.js",
-  sw: "/uv/uv.sw.js",
+  handler: "/bp/bp.handler.js",
+  client: "/bp/bp.client.js",
+  bundle: "/bp/bp.bundle.js",
+  config: "/bp/bp.config.js",
+  sw: "/bp/bp.sw.js",
 };
