@@ -8,10 +8,10 @@ async function registerSW() {
     location.protocol !== "https:" &&
     !swAllowedHostnames.includes(location.hostname)
   )
-    throw new Error("Service workers cannot be registered without https.");
+    throw new Error("⚠️ Service workers cannot be registered without https.");
 
   if (!navigator.serviceWorker)
-    throw new Error("Your browser doesn't support service workers.");
+    throw new Error("⚠️ Your browser doesn't support service workers.");
 
   await navigator.serviceWorker.register(stockSW, {
     scope: __uv$config.prefix,
