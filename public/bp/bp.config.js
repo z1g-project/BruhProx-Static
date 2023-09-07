@@ -1,8 +1,7 @@
 self.__uv$config = {
   prefix: "/bp/service/",
   bare: [
-    "https://uv.radon.games/",
-    "https://uv.holyubofficial.net/",
+    "http://sodium.onrender.com/bare/",
     "https://tomp.app/",
     "https://flow-os.liquid.is-a.dev/bare/"
   ],
