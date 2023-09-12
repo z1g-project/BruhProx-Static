@@ -3,7 +3,7 @@ self.__uv$config = {
   bare: [
     "http://sodium.onrender.com/bare/",
     "https://tomp.app/",
-    "https://flow-os.liquid.is-a.dev/bare/"
+    "https://flow-works.me/bare/"
   ],
   encodeUrl: Ultraviolet.codec.xor.encode,
   decodeUrl: Ultraviolet.codec.xor.decode,
