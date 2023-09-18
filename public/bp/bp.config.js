@@ -1,7 +1,6 @@
 self.__uv$config = {
   prefix: "/bp/service/",
   bare: [
-    "http://sodium.onrender.com/bare/",
     "https://tomp.app/",
     "https://flow-works.me/bare/"
   ],
