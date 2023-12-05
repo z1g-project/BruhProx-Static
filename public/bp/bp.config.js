@@ -1,7 +1,7 @@
 self.__uv$config = {
   prefix: "/bp/service/",
   bare: [
-    "https://flow-works.me/bare/"
+    "https://server2.flow-works.me/bare/"
   ],
   encodeUrl: Ultraviolet.codec.xor.encode,
   decodeUrl: Ultraviolet.codec.xor.decode,
